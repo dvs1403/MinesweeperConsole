@@ -1,0 +1,7 @@
+D:\MyProject2019-2020\MinesweeperConsole\MinesweeperConsole\bin\Debug\MinesweeperConsole.exe.config
+D:\MyProject2019-2020\MinesweeperConsole\MinesweeperConsole\bin\Debug\MinesweeperConsole.exe
+D:\MyProject2019-2020\MinesweeperConsole\MinesweeperConsole\bin\Debug\MinesweeperConsole.pdb
+D:\MyProject2019-2020\MinesweeperConsole\MinesweeperConsole\obj\Debug\MinesweeperConsole.csprojAssemblyReference.cache
+D:\MyProject2019-2020\MinesweeperConsole\MinesweeperConsole\obj\Debug\MinesweeperConsole.csproj.CoreCompileInputs.cache
+D:\MyProject2019-2020\MinesweeperConsole\MinesweeperConsole\obj\Debug\MinesweeperConsole.exe
+D:\MyProject2019-2020\MinesweeperConsole\MinesweeperConsole\obj\Debug\MinesweeperConsole.pdb
